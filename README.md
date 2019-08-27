@@ -1,6 +1,6 @@
 # Data-Structures
 
-Codes written by me in my (ongoing) Data Structures course.
+Codes written by me in my **(ongoing)** Data Structures course.
 
 ## Directory structure 
 
