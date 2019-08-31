@@ -1,6 +1,6 @@
 # Data-Structures
 
-Codes written by me in my (ongoing) Data Structures course.
+Codes written by me in my **(ongoing)** Data Structures course.
 
 ## Directory structure 
 
@@ -24,7 +24,7 @@ Codes written by me in my (ongoing) Data Structures course.
         └── ...
        
 Description:
-- `./implementations` contains my implementation of the data structures covered in the course. 
+- `./implementations` contains my C++ implementations of the data structures covered in the course. 
 - `./practice-labs` contains the solutions to the practice lab assignments given in the course. Each sub-directory `./practice-labs/practice-lab-i/` contains:
   - `lab-i-questions.pdf`: the questions provided in the practice lab assignment, and
   - `solution-j.cpp`: the C++ solutions to the questions in the aforementioned PDF file.
