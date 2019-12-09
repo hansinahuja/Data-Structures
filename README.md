@@ -20,3 +20,7 @@ Codes written by me in my Data Structures course.
         ├── programming-evaluation-2
         ├── programming-evaluation-3
         └── ...
+        
+Description:	
+- `./practice` contains practice lab codes and implementations of a few data structures taught in the course.
+- `./programming-evaluations` contains graded programming evaluation problems and solutions.
